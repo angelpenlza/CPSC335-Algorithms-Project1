@@ -26,3 +26,7 @@ c. Inclusion of a Readme file and well commented codes = 5 points
 d. Successful compilation of codes= 25 points
 e. Produces accurate results = 5 points
 Total of 3 algorithms -> 50*3 => 150 total points.
+
+Algorithm 1 was completed in its entirety by Carlos Lopez. 
+Algorithm 2 was completed in its entirety by Ryan Monte. 
+Algorithm 2 was completed in its entirety by Angel Penaloza. 
