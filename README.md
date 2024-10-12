@@ -29,4 +29,6 @@ Total of 3 algorithms -> 50*3 => 150 total points.
 
 Algorithm 1 was completed in its entirety by Carlos Lopez. 
 Algorithm 2 was completed in its entirety by Ryan Monte. 
-Algorithm 2 was completed in its entirety by Angel Penaloza. 
+Algorithm 3 was split between Angel Penaloza and Boushra Bettir. 
+  Angel worked on the class Schedule() { } aspect of the code, focusing on an individual's schedule. 
+  Boushra worked on the class Group() { } aspect of the code, which used the individual's formatted schedule to find overlapping free intervals. 
