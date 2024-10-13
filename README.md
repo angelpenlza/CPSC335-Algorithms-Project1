@@ -17,18 +17,9 @@ Algorithm 3
 including your name(s). and uploaded to GitHub.
 5. Your canvas submission should contain link to the GitHub project.
 
-Grading Rubric
-The suggested grading rubric for all the three algorithms is given below:
-Algorithm (50 points)
-a. Clear and complete Pseudocode = 10 points
-b. Mathematical analysis and correct Big O efficiency class = 5 points
-c. Inclusion of a Readme file and well commented codes = 5 points
-d. Successful compilation of codes= 25 points
-e. Produces accurate results = 5 points
-Total of 3 algorithms -> 50*3 => 150 total points.
-
 Algorithm 1 was completed in its entirety by Carlos Lopez. 
+	All functions and the class were created and tested by Carlos.
 Algorithm 2 was completed in its entirety by Ryan Monte. 
 Algorithm 3 was split between Angel Penaloza and Boushra Bettir. 
-  Angel worked on the class Schedule() { } aspect of the code, focusing on an individual's schedule. 
-  Boushra worked on the class Group() { } aspect of the code, which used the individual's formatted schedule to find overlapping free intervals. 
+ 	Angel worked on the class Schedule() { } aspect of the code, focusing on an individual's schedule. 
+ 	Boushra worked on the class Group() { } aspect of the code, which used the individual's formatted schedule to find overlapping free intervals. 
